@@ -11,6 +11,10 @@
             #region Leader Board
             Leaderboard.Run();
             #endregion
+
+            #region PhoneBook
+            PhoneBook.Run();
+            #endregion 
         }
     }
 }
