@@ -18,7 +18,12 @@
 
             #region Unique Email Validator
             UniqueEmailValidator.Run();
-            #endregion        
+            #endregion
+
+            #region Print Queue Simulator
+            PrintQueueSimulator.Run();
+            #endregion
+
         }
     }
 }
