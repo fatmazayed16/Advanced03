@@ -14,7 +14,11 @@
 
             #region PhoneBook
             PhoneBook.Run();
-            #endregion 
+            #endregion
+
+            #region Unique Email Validator
+            UniqueEmailValidator.Run();
+            #endregion        
         }
     }
 }
