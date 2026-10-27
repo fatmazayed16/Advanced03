@@ -7,6 +7,10 @@
             #region Student Grade Manager
             StudentGradeManager.Run();
             #endregion
+
+            #region Leader Board
+            Leaderboard.Run();
+            #endregion
         }
     }
 }
