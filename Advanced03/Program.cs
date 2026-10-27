@@ -24,6 +24,10 @@
             PrintQueueSimulator.Run();
             #endregion
 
+            #region Browser History
+            BrowserHistory.Run();
+            #endregion
+
         }
     }
 }
